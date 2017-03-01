@@ -1,9 +1,9 @@
 {
-	"project_name": "set name here",
-	"project_slug": "sn",
-	"s3": {
-		"bucket": "enduro.sethere",
-		"region": "eu-west-1"
-	},
-	"juicebox_enabled": false
+	"project_name": "enduro_netlify_starter",
+	"project_slug": "ens",
+	// "s3": {
+	// 	"bucket": "enduro.sethere",
+	// 	"region": "eu-west-1"
+	// },
+	// "juicebox_enabled": false
 }

@@ -1,4 +1,3 @@
 {
-	greeting: "you!",
-	superlative: "nice",
+	templating_engine: "handlebars",
 }
