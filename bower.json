@@ -1,11 +1,11 @@
 {
-  "name": "enduro_scaffolding",
+  "name": "enduro_netlify_starter",
   "description": "",
   "main": "assets/vendor/enduro/index.js",
   "authors": [
-    "author goes here"
+    "Martin Gottweis"
   ],
-  "license": "ISC",
+  "license": "MIT",
   "homepage": "",
   "ignore": [
     "**/.*",
